@@ -1,1 +1,1 @@
-# WebSiteProje
+# Teknoloji Bağımlılıgı WebSite Projesi
